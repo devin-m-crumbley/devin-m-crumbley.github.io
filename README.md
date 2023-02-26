@@ -1,10 +1,12 @@
-<h1>Dark_Portfolio_Template</h1>
-This is a portfolio web template that I made using HTML-5 , CSS3 (SCSS) and JavaScript.
-Its responsive and you can toggle between three themes. I used DOM event handlers to capture mouse events and animate cursor interactions with various elements of the page.
-<h5>For Desktop and Mob, Not optimised for tablets yet.</h5>
-<ul>
-<li>Just add you profile pic and texts.</li>
-<li>Toggle between 3 themes.</li>
-</ul>
+# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
 
-![](Demo.gif)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
+[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+
+ <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+
+![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
+
+Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
